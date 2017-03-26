@@ -1,0 +1,43 @@
+name: nathN
+analytics: {}
+purpose:
+  - type: contact
+    url: 'tel:16009195'
+    label: Call 1three zero five 600 9195
+  - type: contact
+    url: 'mailto:contrerasnathan@yahoo.de'
+    label: let's communicate
+github: true
+author:
+  name: nathN
+  email: contrerasnathan@yahoo.de
+color:
+  lightness: 0.8615429212804884
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  saturation: 0.7829869969282299
+  brandStrength: 0.6734249282162637
+  rhythmicContrast: 0.2626322645228356
+content: []
+layout_spectrum: 0.05888170818798244
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content_rating:
+  adult: false
+typography_spectrum: 0.612803771160543
+opengraph: {}
+title: willkommen
