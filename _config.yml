@@ -1,3 +1,18 @@
+layout_spectrum: 0.4567284937076603
+typography_spectrum: 0.6873965840355153
+color:
+  lightness: 0.42077339972941075
+  brandColors:
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+  saturation: 0.4259495047841332
+  brandStrength: 0.3073241414848051
+  rhythmicContrast: 0.1792941111156551
+coverPrefs:
+  filter: false
 name: nathN
 analytics: {}
 purpose:
@@ -11,19 +26,7 @@ github: true
 author:
   name: nathN
   email: contrerasnathan@yahoo.de
-color:
-  lightness: 0.8615429212804884
-  brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  saturation: 0.7829869969282299
-  brandStrength: 0.6734249282162637
-  rhythmicContrast: 0.2626322645228356
 content: []
-layout_spectrum: 0.05888170818798244
 collections:
   - index:
       path: /
@@ -38,6 +41,5 @@ collections:
       number: 10
 content_rating:
   adult: false
-typography_spectrum: 0.612803771160543
 opengraph: {}
 title: willkommen
