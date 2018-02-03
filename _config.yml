@@ -44,7 +44,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -67,5 +66,5 @@ collections:
 content_rating:
   adult: false
 opengraph: {}
-title: willkommen
+title: hi! Im nathN
 description: hi I'm nathN
